@@ -1,0 +1,5 @@
+{
+  "name": "SnippetMaster",
+  "description": "A modern, dark-themed clipboard and snippet manager that persists data locally.",
+  "requestFramePermissions": []
+}
