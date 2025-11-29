@@ -260,6 +260,12 @@ export default function App() {
             </div>
           )}
         </div>
+
+        {/* Footer */}
+        <div className="py-3 text-center text-xs text-slate-500 border-t border-slate-800/30">
+          ©toyosystem
+        </div>
+
       </main>
 
       {/* Toast Notification */}
